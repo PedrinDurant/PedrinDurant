@@ -24,7 +24,9 @@ Here are some ideas to get you started:
 
  
 <h3> Contact me through: <h3/>
-
+  <a href="https://www.facebook.com/Neriiadaf">
+    <img src="https://cdn.pixabay.com/photo/2016/11/05/08/42/facebook-1799690_1280.png" title="FACEBOOK" alt="Facebook" width="40" height="40">
+</a>
  
  
 <h3> Languages and Tools: <h3/>
@@ -34,9 +36,12 @@ Here are some ideas to get you started:
     <img src="https://cdn-icons-png.flaticon.com/512/5968/5968672.png" title="BOOTSTRAP" alt="Bootstrap" width="40" height="40">
     <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_tailwind_icon_130128.png" title="TAILWIND" alt="Tailwind" width="40" height="40">
     <img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" title="JAVASCRIPT" alt="JS" width="40" height="40">
+    <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/c_original_logo_icon_146611.png" title="C" alt="c" width="40" height="40">
+    <img src="https://cdn.icon-icons.com/icons2/2148/PNG/512/c_icon_132529.png" title="C++" alt="c++" width="40" height="40">
     <img src="https://cdn-icons-png.flaticon.com/512/919/919830.png" title="PHP" alt="php" width="40" height="40">
     <img src="https://cdn-icons-png.flaticon.com/512/919/919836.png" title="MYSQL" alt="mysql" width="40" height="40">
     <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/laravel_plain_wordmark_logo_icon_146439.png" title="LARAVEL" alt="Laravel" width="40" height="40">
+    <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/react_original_logo_icon_146374.png" title="REACT" alt="React" width="40" height="40">
     <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/git_original_logo_icon_146509.png" title="GIT" alt="Git" width="40" height="40">
 </div>
  
