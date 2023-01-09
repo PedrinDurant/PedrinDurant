@@ -1,4 +1,4 @@
- <h1 aling="center"> Hi 👋 , I'm Pedro Duran <h1/>
+ <h1 align="center"> Hi 👋 , I'm Pedro Duran <h1/>
 
 <!--
 **PedrinDurant/PedrinDurant** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
