@@ -1,5 +1,5 @@
  <h1 align="center"> Hi 👋 , I'm Pedro Duran <h1/>
- <a href="https://twitter.com/PedroDurantt">
+ <a align="center" href="https://twitter.com/PedroDurantt">
     <img src="https://img.shields.io/twitter/follow/PedroDurantt?color=blue&logo=twitter&style=for-the-badge" alt="Twitter Badge">
 </a>
  
