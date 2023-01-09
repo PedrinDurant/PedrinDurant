@@ -15,5 +15,8 @@ Here are some ideas to get you started:
 -->
 - 🔭 I’m currently working on home
 - 🌱 I’m currently learning react
+- 👯 I’m looking to collaborate in all possible web development
+- 😄 willing to learn and help
 
-
+ 
+<h3> Contact me through: <h3/>
