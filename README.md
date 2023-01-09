@@ -26,11 +26,11 @@ Here are some ideas to get you started:
 <h3> Contact me through: <h3/>
  <div>
     <a href="https://www.facebook.com/Neriiadaf">
-        <img src="https://cdn.pixabay.com/photo/2016/11/05/08/42/facebook-1799690_1280.png" title="FACEBOOK" alt="Facebook" width="50" height="50">
+        <img src="https://cdn.pixabay.com/photo/2016/11/05/08/42/facebook-1799690_1280.png" title="FACEBOOK" alt="Facebook" width="40" height="40">
     </a>
   
    <a href="https://www.instagram.com/pedr_duran/">
-        <img src="https://cdn-icons-png.flaticon.com/512/174/174855.png" title="INSTAGRAM" alt="Instagram" width="50" height="50">
+        <img src="https://cdn-icons-png.flaticon.com/512/174/174855.png" title="INSTAGRAM" alt="Instagram" width="40" height="40">
     </a>
 </div>
  
