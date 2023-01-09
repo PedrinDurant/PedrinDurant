@@ -1,4 +1,6 @@
  <h1 align="center"> Hi 👋 , I'm Pedro Duran <h1/>
+ 
+<h3 align="center"> Web developer from Venezuela excited to learn more every day, willing to give my best in each line of code <h3/>
 
 <!--
 **PedrinDurant/PedrinDurant** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
