@@ -32,6 +32,15 @@ Here are some ideas to get you started:
    <a href="https://www.instagram.com/pedr_duran/">
         <img src="https://cdn-icons-png.flaticon.com/512/174/174855.png" title="INSTAGRAM" alt="Instagram" width="40" height="40">
     </a>
+  
+   <a href="https://twitter.com/PedroDurantt">
+        <img src="https://cdn.icon-icons.com/icons2/895/PNG/512/Twitter_icon_icon-icons.com_69154.png" title="TWITTER" alt="Twitter" width="40" height="40">
+    </a>
+  
+   <a href="https://www.linkedin.com/in/pedro-duran-a9041020b/">
+        <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" title="LINKEDIN" alt="Linkedin" width="40" height="40">
+    </a>
+  
 </div>
  
  
