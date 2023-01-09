@@ -1,4 +1,7 @@
  <h1 align="center"> Hi 👋 , I'm Pedro Duran <h1/>
+ <a href="https://twitter.com/PedroDurantt">
+    <img src="https://img.shields.io/twitter/follow/PedroDurantt?color=blue&logo=twitter&style=for-the-badge" alt="Twitter Badge">
+</a>
  
 <h3 align="center"> Web developer from Venezuela excited to learn more every day, willing to give my best in each line of code <h3/>
 
@@ -20,3 +23,5 @@ Here are some ideas to get you started:
 
  
 <h3> Contact me through: <h3/>
+
+ 
